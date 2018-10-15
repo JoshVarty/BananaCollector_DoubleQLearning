@@ -10,6 +10,10 @@ The agent interacts with the environment via the following:
 
 ![Banana Collector Environment](https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif)
 
+*Sample image taken from: https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation*
+
+
+
 </center>
 
 This repository trains an agent to attain an average score (over 100 episodes) of at least 13. It trains the agent using the Double DQN Reinforcement Learning algorithm.
@@ -72,3 +76,4 @@ A sample run generated from [`Visualization.ipynb`]()
 ## Notes
  - Only tested on Ubuntu 18.04
  - Details of the learning algorithm and chosen architecture may be found in [`Report.md`](https://github.com/JoshVarty/BananaCollector_DoubleQLearning/blob/master/Report.md)
+
