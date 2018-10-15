@@ -64,6 +64,10 @@ In my experience the agent achieves an average score of 13 after ~400 episodes o
 ![image](https://user-images.githubusercontent.com/1249087/46922119-794d7000-cfd2-11e8-962f-1bad16917e37.png)
 
 
+A sample run generated from [`Visualization.ipynb`]()
+
+![](https://i.imgur.com/c95Uglu.gif)
+
 
 ## Notes
  - Only tested on Ubuntu 18.04

@@ -59,6 +59,12 @@ After approximately three hours (300 episodes) of training on my local machine, 
 
 ![Score over 400 epsiodes](https://user-images.githubusercontent.com/1249087/46922119-794d7000-cfd2-11e8-962f-1bad16917e37.png)
 
+A sample run generated from [`Visualization.ipynb`]()
+
+![](https://i.imgur.com/c95Uglu.gif)
+
+Notice that while the agent does seem to collect bananas properly, it occasaionally struggles to navigate around blue bananas. This suggests to me that there is room for further improvement.
+
 
 ## Future Work
 
